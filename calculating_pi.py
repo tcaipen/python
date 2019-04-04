@@ -1,6 +1,10 @@
+#!/Users/terrycaipen/miniconda3/bin/python3
 # calculating_pi.py
 # From Classic Computer Science Problems in Python Chapter 1
 # Copyright 2018 David Kopec
+# initial modification by T Caipen
+# 03 Apr 2019
+# Try using current path to python3
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
